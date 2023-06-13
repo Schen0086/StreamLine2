@@ -41,5 +41,4 @@ public class HomePage extends AppCompatActivity {
         startActivity(intent);
         finish();
     }
-    //abeer was here
 }
